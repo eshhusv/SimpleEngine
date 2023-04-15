@@ -6,7 +6,7 @@ int main()
 {
 	std::cout << "Hello, World" << std::endl;
 
-	SimpleEngine::sayHello();
+	SimpleEngine::checkGLFW();
 
 	return 0;
 }
